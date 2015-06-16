@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="primary">#ee2211</color>
-    <color name="primary_dark">#E30000</color>
-    <color name="accent">#e30000</color>
+    <color name="primary">#117ab3</color>
+    <color name="primary_dark">#06517c</color>
+    <color name="accent">#106798</color>
 	<color name="tabsScrollColor">#ffffff</color>
 </resources>
